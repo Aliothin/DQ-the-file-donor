@@ -195,8 +195,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <code>[Ent Provider](buttonurl:https://t.me/+XfaTcC5INUZhMjll)</code>
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <code>[Ent Provider Grp](buttonurl:https://t.me/+8R8_p_ZVFSNkZGI1)</code>
+▫️ ᴄʜᴀɴɴᴇʟ : <code>[Ent Provider](url:https://t.me/+XfaTcC5INUZhMjll)</code>
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <code>[Ent Provider Grp](url:https://t.me/+8R8_p_ZVFSNkZGI1)</code>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
